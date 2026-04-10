@@ -1,0 +1,11 @@
+[project]
+name = "brief-9-2026-04-06"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.0.2",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+]
